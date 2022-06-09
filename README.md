@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Diego-Moreira8
-- 🌱 I’m currently learning Web Development on theodinproject.com
+- 🌱 I’m currently learning Web Development on https://theodinproject.com
 
 <!---
 Diego-Moreira8/Diego-Moreira8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
