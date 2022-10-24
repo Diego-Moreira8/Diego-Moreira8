@@ -1,7 +1,9 @@
-🇧🇷
+
+:brazil:
 - 👋 Olá! Sou o Diego! 
 - 🌱 Estou aprendendo desenvolvimento WEB no [The Odin Project](https://www.theodinproject.com). Atualmente no segundo capítulo de JavaScript. 
-🇺🇸
+
+:us:
 - 👋 Hi! I'm Diego! 
 - 🌱 I'm learning WEB Development on [The Odin Project](https://www.theodinproject.com). Currently on the second chapter of JavaScript. 
 
