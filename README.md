@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Diego-Moreira8
-- 🌱 I’m currently learning Web Development on https://theodinproject.com
+- 👋 Olá! Sou o Diego! 
+- 🌱 Estou aprendendo desenvolvimento WEB no The Odin Project [Link](https://www.theodinproject.com).
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diego-Moreira8)](https://github.com/Diego-Moreira8/github-readme-stats)
 
