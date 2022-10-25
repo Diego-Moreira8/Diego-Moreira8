@@ -11,7 +11,7 @@
 ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-##Alguns dos meus projetos / Some of my Projects:
+## Alguns dos meus projetos / Some of my Projects:
  - https://diego-moreira8.github.io/odin-tic-tac-toe/
  - https://diego-moreira8.github.io/odin-rock-paper-scissors-project/
  - https://diego-moreira8.github.io/odin-etch-a-sketch/
