@@ -12,11 +12,12 @@
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## Alguns dos meus projetos / Some of my Projects:
+ - https://diego-moreira8.github.io/odin-todo-list/
  - https://diego-moreira8.github.io/odin-tic-tac-toe/
  - https://diego-moreira8.github.io/odin-rock-paper-scissors-project/
  - https://diego-moreira8.github.io/odin-etch-a-sketch/
  - https://diego-moreira8.github.io/odin-calculator-project/
- - https://diego-moreira8.github.io/odin-library/
+ - https://diego-moreira8.github.io/odin-carousel/
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Moreira8)](https://github.com/Diego-Moreira8/github-readme-stats)
