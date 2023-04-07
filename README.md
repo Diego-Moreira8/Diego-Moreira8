@@ -18,4 +18,4 @@ Olá! Sou o Diego! Estudo Sistemas de Informação na faculdade Descomplica e De
 - [Árvore de Busca Binária](https://github.com/Diego-Moreira8/odin-balanced-bst)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Moreira8)](https://github.com/Diego-Moreira8/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Moreira8&theme=dark)
