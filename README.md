@@ -19,3 +19,7 @@ Olá! Sou o Diego! Estudo Sistemas de Informação na faculdade Descomplica e De
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Moreira8&theme=dark)
+
+## Contato:
+
+[**diego.moreira529@gmail.com**](mailto:diego.moreira529@gmail.com)
