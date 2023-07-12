@@ -19,6 +19,7 @@ Olá! Sou o Diego! Estudo Sistemas de Informação na faculdade Descomplica e De
 - [Algorítmos de ordenação de vetores de números](https://github.com/Diego-Moreira8/odin-sort-algorithms)
 - [Implementação de uma Lista Ligada](https://github.com/Diego-Moreira8/odin-linked-lists)
 - [Árvore de Busca Binária](https://github.com/Diego-Moreira8/odin-balanced-bst)
+- [Landing Page Optimus Tech](https://github.com/Diego-Moreira8/alura-optimus-tech-landing-page)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Moreira8&theme=dark)
