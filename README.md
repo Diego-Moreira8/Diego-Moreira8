@@ -19,6 +19,7 @@ Olá! Sou o Diego! Estudo Sistemas de Informação na faculdade Descomplica e De
 - [Algorítmos de ordenação de vetores de números](https://github.com/Diego-Moreira8/odin-sort-algorithms)
 - [Implementação de uma Lista Ligada](https://github.com/Diego-Moreira8/odin-linked-lists)
 - [Árvore de Busca Binária](https://github.com/Diego-Moreira8/odin-balanced-bst)
+- [Jogo de Pedra Papel Tesoura](https://github.com/Diego-Moreira8/odin-rock-paper-scissors-project)
 - [Landing Page Optimus Tech](https://github.com/Diego-Moreira8/alura-optimus-tech-landing-page)
 
 
@@ -27,3 +28,4 @@ Olá! Sou o Diego! Estudo Sistemas de Informação na faculdade Descomplica e De
 ## Contato:
 
 [**diego.moreira529@gmail.com**](mailto:diego.moreira529@gmail.com)
+[**linkedin.com/in/diego-moreira8**](https://www.linkedin.com/in/diego-moreira8/)
