@@ -15,6 +15,7 @@ Olá! Sou o Diego! Estudo Sistemas de Informação na faculdade Descomplica e De
 ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ## Alguns dos meus projetos:
+- [Meu Portfólio](https://github.com/Diego-Moreira8/portfolio)
 - [Jogo da memória feito com React](https://github.com/Diego-Moreira8/odin-memory-card)
 - [App de gerenciamento de currículo pessoal feito com React](https://github.com/Diego-Moreira8/odin-cv-project)
 - [Algorítmos de ordenação de vetores de números](https://github.com/Diego-Moreira8/odin-sort-algorithms)
