@@ -16,6 +16,7 @@ Olá! Sou o Diego! Estudo Sistemas de Informação na faculdade Descomplica e De
 
 ## Alguns dos meus projetos:
 - [Meu Portfólio](https://github.com/Diego-Moreira8/portfolio)
+- [Site de uma loja online](https://github.com/Diego-Moreira8/odin-shopping-cart)
 - [Jogo da memória feito com React](https://github.com/Diego-Moreira8/odin-memory-card)
 - [App de gerenciamento de currículo pessoal feito com React](https://github.com/Diego-Moreira8/odin-cv-project)
 - [Algorítmos de ordenação de vetores de números](https://github.com/Diego-Moreira8/odin-sort-algorithms)
