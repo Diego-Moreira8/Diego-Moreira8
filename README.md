@@ -26,6 +26,7 @@ Olá! Sou o Diego! Estudo Sistemas de Informação na faculdade Descomplica e De
 - [Traço Mágico](https://github.com/Diego-Moreira8/odin-etch-a-sketch)
 - [Jogo de Pedra Papel Tesoura](https://github.com/Diego-Moreira8/odin-rock-paper-scissors-project)
 - [Formulário básico](https://github.com/Diego-Moreira8/odin-sign-up-form)
+- [Painel de Controle](https://github.com/Diego-Moreira8/odin-admin-dashboard)
 - [Site de Receitas](https://github.com/Diego-Moreira8/odin-recipes)
 - [Landing Page Optimus Tech](https://github.com/Diego-Moreira8/alura-optimus-tech-landing-page)
 
