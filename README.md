@@ -19,6 +19,7 @@ Olá! Sou o Diego! Estudo Sistemas de Informação na faculdade Descomplica e De
 - [Site de uma loja online](https://github.com/Diego-Moreira8/odin-shopping-cart)
 - [Jogo da memória feito com React](https://github.com/Diego-Moreira8/odin-memory-card)
 - [App de gerenciamento de currículo pessoal feito com React](https://github.com/Diego-Moreira8/odin-cv-project)
+- [Biblioteca Pessoal](https://github.com/Diego-Moreira8/odin-library)
 - [Algorítmos de ordenação de vetores de números](https://github.com/Diego-Moreira8/odin-sort-algorithms)
 - [Implementação de uma Lista Ligada](https://github.com/Diego-Moreira8/odin-linked-lists)
 - [Árvore de Busca Binária](https://github.com/Diego-Moreira8/odin-balanced-bst)
