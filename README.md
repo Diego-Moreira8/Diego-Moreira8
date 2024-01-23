@@ -27,6 +27,7 @@ Olá! Sou o Diego! Estudo Sistemas de Informação na faculdade Descomplica e De
 - [Jogo da Velha](https://github.com/Diego-Moreira8/odin-tic-tac-toe)
 - [Traço Mágico](https://github.com/Diego-Moreira8/odin-etch-a-sketch)
 - [Jogo de Pedra Papel Tesoura](https://github.com/Diego-Moreira8/odin-rock-paper-scissors-project)
+- [Regra de Três](https://github.com/Diego-Moreira8/regra-de-tres)
 - [Formulário básico](https://github.com/Diego-Moreira8/odin-sign-up-form)
 - [Painel de Controle](https://github.com/Diego-Moreira8/odin-admin-dashboard)
 - [Site de Receitas](https://github.com/Diego-Moreira8/odin-recipes)
