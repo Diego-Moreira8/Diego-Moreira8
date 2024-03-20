@@ -26,6 +26,7 @@ Olá! Sou o Diego! Estudo Sistemas de Informação na faculdade Descomplica e De
 - [Implementação de uma Lista Ligada](https://github.com/Diego-Moreira8/odin-linked-lists)
 - [Árvore de Busca Binária](https://github.com/Diego-Moreira8/odin-balanced-bst)
 - [Calculadora do Windows XP](https://github.com/Diego-Moreira8/odin-calculator-project)
+- [Formulário validado com JavaScript](https://github.com/Diego-Moreira8/odin-form-validation-js)
 - [Jogo da Velha](https://github.com/Diego-Moreira8/odin-tic-tac-toe)
 - [Traço Mágico](https://github.com/Diego-Moreira8/odin-etch-a-sketch)
 - [Jogo de Pedra Papel Tesoura](https://github.com/Diego-Moreira8/odin-rock-paper-scissors-project)
