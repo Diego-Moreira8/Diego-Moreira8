@@ -21,6 +21,7 @@ Olá! Sou o Diego! Estudo Sistemas de Informação na faculdade Descomplica e De
 - [App de gerenciamento de currículo pessoal feito com React](https://github.com/Diego-Moreira8/odin-cv-project)
 - [App de Clima](https://github.com/Diego-Moreira8/weather-app)
 - [Lista de Tarefas](https://github.com/Diego-Moreira8/odin-todo-list)
+- [Barra de navegação e carrossel de imagens](https://github.com/Diego-Moreira8/odin-navbar-and-carousel)
 - [Biblioteca Pessoal](https://github.com/Diego-Moreira8/odin-library)
 - [Algorítmos de ordenação de vetores de números](https://github.com/Diego-Moreira8/odin-sort-algorithms)
 - [Implementação de uma Lista Ligada](https://github.com/Diego-Moreira8/odin-linked-lists)
