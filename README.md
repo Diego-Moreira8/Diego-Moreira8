@@ -2,19 +2,19 @@
 
 Desenvolvedor web, apaixonado por tecnologia e por transformar ideias em interfaces funcionais.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-bf4080?style=for-the-badge&logo=sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-00bcff?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
-![Node.JS](https://img.shields.io/badge/Node.JS-417e38?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-ffffff?style=for-the-badge&logo=express&logoColor=000000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=ffffff)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-dadde1?style=for-the-badge&logo=html5&logoColor=#dd4b25)
+![CSS3](https://img.shields.io/badge/CSS-dadde1?style=for-the-badge&logo=css&logoColor=1572B6)
+![Sass](https://img.shields.io/badge/Sass-dadde1?style=for-the-badge&logo=sass&logoColor=bf4080)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-dadde1?style=for-the-badge&logo=tailwindcss&logoColor=00bcff)
+![JavaScript](https://img.shields.io/badge/JavaScript-dadde1?style=for-the-badge&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-dadde1?style=for-the-badge&logo=typescript&logoColor=3178c6)
+![React](https://img.shields.io/badge/React-dadde1?style=for-the-badge&logo=react&logoColor=20232A)
+![Webpack](https://img.shields.io/badge/Webpack-dadde1?style=for-the-badge&logo=Webpack&logoColor=1d72b3)
+![Node.JS](https://img.shields.io/badge/Node.JS-dadde1?style=for-the-badge&logo=node.js&logoColor=417e38)
+![Express](https://img.shields.io/badge/Express-dadde1?style=for-the-badge&logo=express&logoColor=000000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-dadde1?style=for-the-badge&logo=postgresql&logoColor=336791)
+![Figma](https://img.shields.io/badge/Figma-dadde1?style=for-the-badge&logo=figma&logoColor=0e0e0e)
+![Git](https://img.shields.io/badge/GIT-dadde1?style=for-the-badge&logo=git&logoColor=E44C30)
 
 # Sobre Mim
 
